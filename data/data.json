@@ -1,0 +1,24 @@
+{
+    "user": {
+        "clientId936u349etgnvdf": {
+            "refreshToken": "iusbgnvoshgoridnv",
+            "pushNotificationToken": "xfgjhettjhfgfretsgdfhgj"
+        }
+    },
+    "notifData": {
+        "clientId936u349etgnvdf": {
+            "4tgsdgdfvehicleID": {
+                "distanceThreshold": 50,
+                "active": true,
+                "time": 34645623436,
+                "repeat": true
+            },
+            "76dfhdfhfdhvehicleID": {
+                "distanceThreshold": 75,
+                "active": true,
+                "time": 6456456346,
+                "repeat": false
+            }
+        }
+    }
+}
